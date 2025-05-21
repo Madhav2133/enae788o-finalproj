@@ -28,6 +28,14 @@ This script is an implementation of the Search and Rescue Mission (SAR) on top o
 
 This script introduces FSM to the Search and Rescue Mission (SAR) on top of using the Modified CSA Flocking Algorithm.
 
+### Evaluations/
+
+This folder contains the copy of the FSM script, which is used to evaluate the approach with vairous swarm sizes and different number of targets. Here are the sample plots from the evalautions:
+
+![](./Evaluations/fsm_final_coverage_comparison.png)
+
+![](./Evaluations/fsm_final_steps_comparison.png)
+
 ## Report:
 
 You can find the full project report at: [this link](ENAE788O_Final_Project.pdf).
